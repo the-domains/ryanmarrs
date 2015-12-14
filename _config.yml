@@ -1,0 +1,28 @@
+name: RyanMarrs
+favicon: null
+layout_spectrum: 0.893368820194155
+typography_spectrum: 0.42746994318440557
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.22050411417149007
+  lightness: 0.12386880978010595
+  saturation: 0.2746954506728798
+  rhythmicContrast: 0.4215372009202838
+purpose: []
