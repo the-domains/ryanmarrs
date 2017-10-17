@@ -1,5 +1,6 @@
-layout_spectrum: 0.7815021099819627
 typography_spectrum: 0.4233794699195256
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#468966'
@@ -11,24 +12,32 @@ color:
   lightness: 0.11928877181567178
   saturation: 0.9804279194584135
   rhythmicContrast: 0.3912778010551292
-name: RyanMarrs
-favicon: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-1762611-3
-  facebook: null
-  twitter: null
+github: true
 opengraph:
   image: null
   type: ''
   appId: ''
-purpose:
-  - type: contact
-    url: 'mailto:rmarrs@ryanmarrs.com'
-    label: Email Me
+layout_spectrum: 0.7815021099819627
+analytics:
+  google: UA-1762611-3
+  facebook: null
+  twitter: null
+author:
+  name: Ryan Marrs
+  email: rmarrs@ryanmarrs.com
+  url: 'http://ryanmarrs.com'
+name: Ryan Marrs
+url: 'http://ryanmarrs.com'
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: YouTube
+    url: 'http://youtube.com/rmarrsmi'
+    type: external
+favicon: null
+title: Ryan Marrs
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -38,29 +47,24 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/8de3dc3c-b6db-48cf-a185-647cf67cd7af.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-content_rating:
-  adult: false
-author:
-  name: Ryan Marrs
-  email: rmarrs@ryanmarrs.com
-  url: 'http://ryanmarrs.com'
-url: 'http://ryanmarrs.com'
-title: Ryan Marrs
 description: A place for my thoughts
-github: true
+purpose:
+  - type: contact
+    url: 'mailto:rmarrs@ryanmarrs.com'
+    label: Email Me
