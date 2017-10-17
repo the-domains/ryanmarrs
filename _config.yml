@@ -36,6 +36,9 @@ navigation:
   - name: YouTube
     url: 'http://youtube.com/rmarrsmi'
     type: external
+  - name: Facebook
+    url: 'http://facebook.com/rmarrs'
+    type: external
 favicon: null
 title: Ryan Marrs
 content:
