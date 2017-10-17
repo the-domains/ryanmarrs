@@ -1,7 +1,18 @@
+layout_spectrum: 0.36977113902670244
+typography_spectrum: 0.4263763171950779
+color:
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.40817861748711753
+  lightness: 0.5121433912812373
+  saturation: 0.208614902110254
+  rhythmicContrast: 0.9925688805248551
 name: RyanMarrs
 favicon: null
-layout_spectrum: 0.893368820194155
-typography_spectrum: 0.42746994318440557
 cta:
   domain: null
   bucket: null
@@ -14,17 +25,6 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.22050411417149007
-  lightness: 0.12386880978010595
-  saturation: 0.2746954506728798
-  rhythmicContrast: 0.4215372009202838
 purpose:
   - type: contact
     url: 'mailto:rmarrs@ryanmarrs.com'
@@ -47,7 +47,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
