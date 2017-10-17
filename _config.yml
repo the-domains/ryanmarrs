@@ -1,5 +1,5 @@
-layout_spectrum: 0.36977113902670244
-typography_spectrum: 0.4263763171950779
+layout_spectrum: 0.7815021099819627
+typography_spectrum: 0.4233794699195256
 color:
   brandColors:
     - '#468966'
@@ -7,10 +7,10 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-  brandStrength: 0.40817861748711753
-  lightness: 0.5121433912812373
-  saturation: 0.208614902110254
-  rhythmicContrast: 0.9925688805248551
+  brandStrength: 0.17165472376980995
+  lightness: 0.11928877181567178
+  saturation: 0.9804279194584135
+  rhythmicContrast: 0.3912778010551292
 name: RyanMarrs
 favicon: null
 cta:
