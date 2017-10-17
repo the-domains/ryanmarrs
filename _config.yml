@@ -28,7 +28,7 @@ color:
 purpose:
   - type: contact
     url: 'mailto:rmarrs@ryanmarrs.com'
-    label: Contact me
+    label: Email Me
 content: []
 content_rating:
   adult: false
