@@ -23,8 +23,8 @@ analytics:
   twitter: null
 opengraph:
   image: null
-  type: null
-  appId: null
+  type: www
+  appId: '165832230675738'
 purpose:
   - type: contact
     url: 'mailto:rmarrs@ryanmarrs.com'
