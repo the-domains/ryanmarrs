@@ -23,8 +23,8 @@ analytics:
   twitter: null
 opengraph:
   image: null
-  type: www
-  appId: '165832230675738'
+  type: ''
+  appId: ''
 purpose:
   - type: contact
     url: 'mailto:rmarrs@ryanmarrs.com'
@@ -58,7 +58,7 @@ content_rating:
   adult: false
 author:
   name: Ryan Marrs
-  email: rmarrs@gmail.com
+  email: rmarrs@ryanmarrs.com
   url: 'http://ryanmarrs.com'
 url: 'http://ryanmarrs.com'
 title: Ryan Marrs
